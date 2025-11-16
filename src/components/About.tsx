@@ -32,7 +32,7 @@ export const About = () => {
               </p>
 
               <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-                Skilled in combining creative design with engineering precision to deliver solutions that are not only functional but also visually compelling and user-friendly.
+                Skilled in delivering robust, efficient, and scalable solutions with a focus on performance and user experience.
               </p>
 
               <div className="grid grid-cols-2 gap-6 pt-6">
@@ -48,11 +48,11 @@ export const About = () => {
 
                 <div className="flex items-start gap-4 p-6 bg-blue-50 dark:bg-gray-700 rounded-xl">
                   <div className="p-3 bg-blue-600 rounded-lg">
-                    <Palette className="w-6 h-6 text-white" />
+                    <Code className="w-6 h-6 text-white" />
                   </div>
                   <div>
-                    <h3 className="font-semibold text-gray-900 dark:text-white mb-1">Design</h3>
-                    <p className="text-sm text-gray-600 dark:text-gray-400">User-focused UX</p>
+                    <h3 className="font-semibold text-gray-900 dark:text-white mb-1">Problem Solving</h3>
+                    <p className="text-sm text-gray-600 dark:text-gray-400">Efficient solutions</p>
                   </div>
                 </div>
               </div>

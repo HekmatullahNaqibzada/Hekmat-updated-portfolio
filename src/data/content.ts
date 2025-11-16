@@ -5,8 +5,8 @@ import anafaePayrollImg from '../asset/anafae-payroll-mis.png';
 import anafaeTaskImg from '../asset/anafae-taskmanagement.png';
 import afghanWriterImg from '../asset/afghan-writer.png';
 import gulabTahirImg from '../asset/gulab-tahir.png';
-import rezayanImg from '../asset/Rezayan.PNG';
-import sanaiukImg from '../asset/sanaiuk.JPG';
+import rezayanImg from '../asset/Rezayan.png';
+import sanaiukImg from '../asset/sanaiuk.jpg';
 
 export const projects: Project[] = [
   {

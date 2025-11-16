@@ -11,7 +11,7 @@ export const Footer = () => {
                 Hekmatullah Naqibzada
               </h3>
               <p className="text-gray-400">
-                Full Stack Developer & Creative Designer building innovative solutions
+                Full Stack Developer building innovative solutions
               </p>
             </div>
 
